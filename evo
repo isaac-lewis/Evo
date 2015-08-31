@@ -1,0 +1,10 @@
+#!/usr/bin/ruby
+
+load "evo.rb"
+
+get_started
+
+while true
+  input_loop
+end
+

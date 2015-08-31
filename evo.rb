@@ -1,0 +1,8 @@
+load "random.rb"
+load "helpers.rb"
+load "markov.rb"
+load "event.rb"
+load "planet.rb"
+load "continent.rb"
+load "region.rb"
+load "species.rb"
